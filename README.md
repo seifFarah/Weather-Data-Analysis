@@ -8,11 +8,11 @@ This project analyzes weather data from different locations. The analysis includ
 
 ## Project Structure
 
-Weather-Data-Analysis/
-├── weather_analysis.py
-├── weather_data.csv
-├── README.md
-└── requirements.txt
+Weather-Data-Analysis
+ - weather_analysis.py
+ - weather_data.csv
+ - README.md
+ - requirements.txt
 
 ## Setup Instructions
 
